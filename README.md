@@ -36,8 +36,8 @@ I've Also added A test file If u want to Test
 ## How to Compile
 Use GCC:
 bash:
-gcc *.c libprog2.a -o main -lm
+gcc *.c libprog2.a -o cbitbank -lm
 
 ## How to Run
-./main
+./cbitbank
 
