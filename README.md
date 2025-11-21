@@ -30,13 +30,14 @@ This project demonstrates strong skills in pointers, memory allocation, and data
 │── pr2cbitbank.h
 │── Makefile
 └── README.md
+I've Also added A test file If u want to Test
 
 
 ## How to Compile
 Use GCC:
 bash:
-gcc main.c bitbank.c linked_list.c -o bitbank
+gcc *.c libprog2.a -o main -lm
 
 ## How to Run
-./bitbank
+./main
 
